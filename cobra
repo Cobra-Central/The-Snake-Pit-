@@ -1,4 +1,4 @@
-name: CI
+name: Cobra Command Center 
 
 on: [push]
 
